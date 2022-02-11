@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Login.qml</file>
+        <file>../../Desktop/mec.jpg</file>
+        <file>increase.qml</file>
+        <file>../../Desktop/coin.png</file>
+        <file>Mainmenu.qml</file>
+        <file>../../Desktop/wingm.jpg</file>
+        <file>../../Desktop/engine.jpg</file>
+        <file>../../Desktop/alltools.jpg</file>
+        <file>../../Desktop/exit.png</file>
+        <file>Wingmirrortype.qml</file>
+        <file>Wingmirrorquality.qml</file>
+        <file>Enginestreangth.qml</file>
+        <file>Enginequality.qml</file>
+        <file>Stuffbought.qml</file>
+    </qresource>
+</RCC>
